@@ -1,585 +1,590 @@
-﻿[
+{
+  "type": "bundle",
+  "id": "bundle--region_name_with_aliases_with_x_opencti_aliases",
+  "spec_version": "2.1",
+  "objects": [
     {
-        "id":  "location--7e13827c-720f-5725-978b-907dc66a6f6f",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:36.999Z",
-        "modified":  "2025-05-06T11:47:31.992Z",
-        "name":  "Africa",
-        "latitude":  11.5024338,
-        "longitude":  17.7578122,
-        "x_opencti_location_type":  "Region",
-        "region":  "Africa",
-        "x_opencti_id":  "0f765edf-b55c-4256-bbd2-7e51e5265213",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "非洲",
-                        "Afrika",
-                        "アフリカ",
-                        "Afryka",
-                        "Африка"
-                    ]
+      "id": "location--7e13827c-720f-5725-978b-907dc66a6f6f",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:36.999Z",
+      "modified": "2025-05-06T11:47:31.992Z",
+      "name": "Africa",
+      "latitude": 11.5024338,
+      "longitude": 17.7578122,
+      "x_opencti_location_type": "Region",
+      "region": "Africa",
+      "x_opencti_id": "0f765edf-b55c-4256-bbd2-7e51e5265213",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "非洲",
+        "Afrika",
+        "アフリカ",
+        "Afryka",
+        "Африка"
+      ]
     },
     {
-        "id":  "location--bce21a59-810c-5c81-863c-23546cb0d6a0",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.014Z",
-        "modified":  "2025-05-06T11:47:33.326Z",
-        "name":  "Americas",
-        "latitude":  19.4326296,
-        "longitude":  -99.1331785,
-        "x_opencti_location_type":  "Region",
-        "region":  "Americas",
-        "x_opencti_id":  "a429379a-9cb5-41f0-8c11-ecfeba8180e9",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "美洲",
-                        "Amerika",
-                        "アメリカ",
-                        "Ameryki",
-                        "Северная и Южная Америка",
-                        "美洲地區"
-                    ]
+      "id": "location--bce21a59-810c-5c81-863c-23546cb0d6a0",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.014Z",
+      "modified": "2025-05-06T11:47:33.326Z",
+      "name": "Americas",
+      "latitude": 19.4326296,
+      "longitude": -99.1331785,
+      "x_opencti_location_type": "Region",
+      "region": "Americas",
+      "x_opencti_id": "a429379a-9cb5-41f0-8c11-ecfeba8180e9",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "美洲",
+        "Amerika",
+        "アメリカ",
+        "Ameryki",
+        "Северная и Южная Америка",
+        "美洲地區"
+      ]
     },
     {
-        "id":  "location--68241bf7-96c8-5542-b488-3b8fe8f51aff",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.035Z",
-        "modified":  "2025-05-06T11:47:34.458Z",
-        "name":  "Asia",
-        "latitude":  37.254283,
-        "longitude":  83.217591,
-        "x_opencti_location_type":  "Region",
-        "region":  "Asia",
-        "x_opencti_id":  "e81a8222-d702-434c-ad76-f4d9866b6282",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "亚洲",
-                        "Asien",
-                        "アジア",
-                        "Azja",
-                        "Азия",
-                        "亞洲"
-                    ]
+      "id": "location--68241bf7-96c8-5542-b488-3b8fe8f51aff",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.035Z",
+      "modified": "2025-05-06T11:47:34.458Z",
+      "name": "Asia",
+      "latitude": 37.254283,
+      "longitude": 83.217591,
+      "x_opencti_location_type": "Region",
+      "region": "Asia",
+      "x_opencti_id": "e81a8222-d702-434c-ad76-f4d9866b6282",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "亚洲",
+        "Asien",
+        "アジア",
+        "Azja",
+        "Азия",
+        "亞洲"
+      ]
     },
     {
-        "id":  "location--8d7fec7f-4e38-53c6-a3dc-904adf4622e8",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.062Z",
-        "modified":  "2025-05-06T11:47:36.725Z",
-        "name":  "Australia and New Zealand",
-        "x_opencti_location_type":  "Region",
-        "region":  "Australia and New Zealand",
-        "x_opencti_id":  "3e3e5f9b-27ed-4646-b8d1-f5cf19077995",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "澳大利亚和新西兰",
-                        "Australien und Neuseeland",
-                        "オーストラリアとニュージーランド",
-                        "Australia i Nowa Zelandia",
-                        "Австралия и Новая Зеландия",
-                        "澳洲和紐西蘭"
-                    ]
+      "id": "location--8d7fec7f-4e38-53c6-a3dc-904adf4622e8",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.062Z",
+      "modified": "2025-05-06T11:47:36.725Z",
+      "name": "Australia and New Zealand",
+      "x_opencti_location_type": "Region",
+      "region": "Australia and New Zealand",
+      "x_opencti_id": "3e3e5f9b-27ed-4646-b8d1-f5cf19077995",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "澳大利亚和新西兰",
+        "Australien und Neuseeland",
+        "オーストラリアとニュージーランド",
+        "Australia i Nowa Zelandia",
+        "Австралия и Новая Зеландия",
+        "澳洲和紐西蘭"
+      ]
     },
     {
-        "id":  "location--11d3361e-d6a7-5688-a0b4-cde991ce504d",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.035Z",
-        "modified":  "2025-05-06T11:47:34.461Z",
-        "name":  "Central Asia",
-        "latitude":  38.861034,
-        "longitude":  71.276093,
-        "x_opencti_location_type":  "Region",
-        "region":  "Central Asia",
-        "x_opencti_id":  "8408889d-16ff-4c5e-a2e9-685381014f94",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "中亚",
-                        "Zentralasien",
-                        "中央アジア",
-                        "Azja Środkowa",
-                        "Центральная Азия",
-                        "中亞"
-                    ]
+      "id": "location--11d3361e-d6a7-5688-a0b4-cde991ce504d",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.035Z",
+      "modified": "2025-05-06T11:47:34.461Z",
+      "name": "Central Asia",
+      "latitude": 38.861034,
+      "longitude": 71.276093,
+      "x_opencti_location_type": "Region",
+      "region": "Central Asia",
+      "x_opencti_id": "8408889d-16ff-4c5e-a2e9-685381014f94",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "中亚",
+        "Zentralasien",
+        "中央アジア",
+        "Azja Środkowa",
+        "Центральная Азия",
+        "中亞"
+      ]
     },
     {
-        "id":  "location--c5a2d626-2be3-5cee-b643-773a32d19ce0",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.038Z",
-        "modified":  "2025-05-06T11:47:34.587Z",
-        "name":  "Eastern Asia",
-        "x_opencti_location_type":  "Region",
-        "region":  "Eastern Asia",
-        "x_opencti_id":  "c2c6f323-71b0-447c-a1d6-4e3d11b59b4d",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "东亚",
-                        "Ostasien",
-                        "東アジア",
-                        "Azja Wschodnia",
-                        "Восточная Азия",
-                        "東亞"
-                    ]
+      "id": "location--c5a2d626-2be3-5cee-b643-773a32d19ce0",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.038Z",
+      "modified": "2025-05-06T11:47:34.587Z",
+      "name": "Eastern Asia",
+      "x_opencti_location_type": "Region",
+      "region": "Eastern Asia",
+      "x_opencti_id": "c2c6f323-71b0-447c-a1d6-4e3d11b59b4d",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "东亚",
+        "Ostasien",
+        "東アジア",
+        "Azja Wschodnia",
+        "Восточная Азия",
+        "東亞"
+      ]
     },
     {
-        "id":  "location--8ff835b1-bf48-511c-9538-c4ee7bfe9bc6",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.049Z",
-        "modified":  "2025-05-06T11:47:35.644Z",
-        "name":  "Eastern Europe",
-        "x_opencti_location_type":  "Region",
-        "region":  "Eastern Europe",
-        "x_opencti_id":  "d5489847-8531-40db-abd1-46d966259419",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "东欧",
-                        "Ost-Europa",
-                        "東ヨーロッパ",
-                        "Europa Wschodnia",
-                        "Восточная Европа",
-                        "東歐"
-                    ]
+      "id": "location--8ff835b1-bf48-511c-9538-c4ee7bfe9bc6",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.049Z",
+      "modified": "2025-05-06T11:47:35.644Z",
+      "name": "Eastern Europe",
+      "x_opencti_location_type": "Region",
+      "region": "Eastern Europe",
+      "x_opencti_id": "d5489847-8531-40db-abd1-46d966259419",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "东欧",
+        "Ost-Europa",
+        "東ヨーロッパ",
+        "Europa Wschodnia",
+        "Восточная Европа",
+        "東歐"
+      ]
     },
     {
-        "id":  "location--2e9ef300-a1ab-5c9f-9297-dde66b71cae2",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.049Z",
-        "modified":  "2025-05-06T11:47:35.614Z",
-        "name":  "Europe",
-        "x_opencti_location_type":  "Region",
-        "region":  "Europe",
-        "x_opencti_id":  "ec74e53c-1f9c-4266-a699-ac988c0af4db",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "欧洲",
-                        "Europa",
-                        "ヨーロッパ",
-                        "Европа",
-                        "歐洲"
-                    ]
+      "id": "location--2e9ef300-a1ab-5c9f-9297-dde66b71cae2",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.049Z",
+      "modified": "2025-05-06T11:47:35.614Z",
+      "name": "Europe",
+      "x_opencti_location_type": "Region",
+      "region": "Europe",
+      "x_opencti_id": "ec74e53c-1f9c-4266-a699-ac988c0af4db",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "欧洲",
+        "Europa",
+        "ヨーロッパ",
+        "Европа",
+        "歐洲"
+      ]
     },
     {
-        "id":  "location--db71adf6-45c4-561f-9509-e84092ca174d",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.014Z",
-        "modified":  "2025-05-06T11:47:33.358Z",
-        "name":  "Latin America and the Caribbean",
-        "latitude":  8.0018709,
-        "longitude":  -66.1109318,
-        "x_opencti_location_type":  "Region",
-        "region":  "Latin America and the Caribbean",
-        "x_opencti_id":  "526c3a46-a686-437b-80c8-0ed51845279c",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "拉丁美洲和加勒比海地区",
-                        "Lateinamerika und die Karibik",
-                        "ラテンアメリカ",
-                        "Ameryka Łacińska i Karaiby",
-                        "Латинская Америка и Карибский бассейн",
-                        "拉丁美洲和加勒比海地區"
-                    ]
+      "id": "location--db71adf6-45c4-561f-9509-e84092ca174d",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.014Z",
+      "modified": "2025-05-06T11:47:33.358Z",
+      "name": "Latin America and the Caribbean",
+      "latitude": 8.0018709,
+      "longitude": -66.1109318,
+      "x_opencti_location_type": "Region",
+      "region": "Latin America and the Caribbean",
+      "x_opencti_id": "526c3a46-a686-437b-80c8-0ed51845279c",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "拉丁美洲和加勒比海地区",
+        "Lateinamerika und die Karibik",
+        "ラテンアメリカ",
+        "Ameryka Łacińska i Karaiby",
+        "Латинская Америка и Карибский бассейн",
+        "拉丁美洲和加勒比海地區"
+      ]
     },
     {
-        "id":  "location--08e03725-c13e-5d3f-9214-4d02c85de433",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.063Z",
-        "modified":  "2025-05-06T11:47:36.880Z",
-        "name":  "Melanesia",
-        "x_opencti_location_type":  "Region",
-        "region":  "Melanesia",
-        "x_opencti_id":  "ae756cd4-11f9-44c7-b579-74e5948beccb",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "美拉尼西亚",
-                        "Melanesien",
-                        "メラネシア",
-                        "Melanezja",
-                        "Меланезия",
-                        "美拉尼西亞"
-                    ]
+      "id": "location--08e03725-c13e-5d3f-9214-4d02c85de433",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.063Z",
+      "modified": "2025-05-06T11:47:36.880Z",
+      "name": "Melanesia",
+      "x_opencti_location_type": "Region",
+      "region": "Melanesia",
+      "x_opencti_id": "ae756cd4-11f9-44c7-b579-74e5948beccb",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "美拉尼西亚",
+        "Melanesien",
+        "メラネシア",
+        "Melanezja",
+        "Меланезия",
+        "美拉尼西亞"
+      ]
     },
     {
-        "id":  "location--c2a94e32-15c0-5a6c-9fbc-f5a432c7d88e",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.066Z",
-        "modified":  "2025-05-06T11:47:37.004Z",
-        "name":  "Micronesia",
-        "x_opencti_location_type":  "Region",
-        "region":  "Micronesia",
-        "x_opencti_id":  "24ee12cd-c32e-452e-b7a1-5f2564889c7f",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "密克罗尼西亚",
-                        "Mikronesien",
-                        "ミクロネシア",
-                        "Mikronezja",
-                        "Микронезия",
-                        "密克羅尼西亞"
-                    ]
+      "id": "location--c2a94e32-15c0-5a6c-9fbc-f5a432c7d88e",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.066Z",
+      "modified": "2025-05-06T11:47:37.004Z",
+      "name": "Micronesia",
+      "x_opencti_location_type": "Region",
+      "region": "Micronesia",
+      "x_opencti_id": "24ee12cd-c32e-452e-b7a1-5f2564889c7f",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "密克罗尼西亚",
+        "Mikronesien",
+        "ミクロネシア",
+        "Mikronezja",
+        "Микронезия",
+        "密克羅尼西亞"
+      ]
     },
     {
-        "id":  "location--a3f7ca42-b35d-5a31-803c-021f784f02b9",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.045Z",
-        "modified":  "2025-05-06T11:47:35.282Z",
-        "name":  "Middle East",
-        "x_opencti_location_type":  "Region",
-        "region":  "Middle East",
-        "x_opencti_id":  "fffed2b8-b387-4cbe-a0d0-21d7706e12a5",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "中东",
-                        "Mittlerer Osten",
-                        "中東",
-                        "Bliski Wschód",
-                        "Ближний Восток"
-                    ]
+      "id": "location--a3f7ca42-b35d-5a31-803c-021f784f02b9",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.045Z",
+      "modified": "2025-05-06T11:47:35.282Z",
+      "name": "Middle East",
+      "x_opencti_location_type": "Region",
+      "region": "Middle East",
+      "x_opencti_id": "fffed2b8-b387-4cbe-a0d0-21d7706e12a5",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "中东",
+        "Mittlerer Osten",
+        "中東",
+        "Bliski Wschód",
+        "Ближний Восток"
+      ]
     },
     {
-        "id":  "location--767c065c-8b65-5b50-a4dd-1252b45e0d6b",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:36.999Z",
-        "modified":  "2025-05-06T11:47:32.024Z",
-        "name":  "Northern Africa",
-        "latitude":  28.0000272,
-        "longitude":  2.9999825,
-        "x_opencti_location_type":  "Region",
-        "region":  "Northern Africa",
-        "x_opencti_id":  "19e2f1c9-c3d6-4899-919c-269b972999da",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "北非",
-                        "Nordafrika",
-                        "アフリカ北部",
-                        "Afryka Północna",
-                        "Северная Африка"
-                    ]
+      "id": "location--767c065c-8b65-5b50-a4dd-1252b45e0d6b",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:36.999Z",
+      "modified": "2025-05-06T11:47:32.024Z",
+      "name": "Northern Africa",
+      "latitude": 28.0000272,
+      "longitude": 2.9999825,
+      "x_opencti_location_type": "Region",
+      "region": "Northern Africa",
+      "x_opencti_id": "19e2f1c9-c3d6-4899-919c-269b972999da",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "北非",
+        "Nordafrika",
+        "アフリカ北部",
+        "Afryka Północna",
+        "Северная Африка"
+      ]
     },
     {
-        "id":  "location--713e5fdc-da7b-5735-958d-d7dc664efa7f",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.032Z",
-        "modified":  "2025-05-06T11:47:34.341Z",
-        "name":  "Northern America",
-        "latitude":  39.7392364,
-        "longitude":  -104.9848623,
-        "x_opencti_location_type":  "Region",
-        "region":  "Northern America",
-        "x_opencti_id":  "add52925-bf1a-4d9c-922b-5789bea23070",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "北美洲",
-                        "Nördliches Amerika",
-                        "北アメリカ",
-                        "Ameryka Północna",
-                        "Северная Америка"
-                    ]
+      "id": "location--713e5fdc-da7b-5735-958d-d7dc664efa7f",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.032Z",
+      "modified": "2025-05-06T11:47:34.341Z",
+      "name": "Northern America",
+      "latitude": 39.7392364,
+      "longitude": -104.9848623,
+      "x_opencti_location_type": "Region",
+      "region": "Northern America",
+      "x_opencti_id": "add52925-bf1a-4d9c-922b-5789bea23070",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "北美洲",
+        "Nördliches Amerika",
+        "北アメリカ",
+        "Ameryka Północna",
+        "Северная Америка"
+      ]
     },
     {
-        "id":  "location--47a439b0-ad3d-5a9e-8f6a-5de5a7e76d0b",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.052Z",
-        "modified":  "2025-05-06T11:47:35.881Z",
-        "name":  "Northern Europe",
-        "x_opencti_location_type":  "Region",
-        "region":  "Northern Europe",
-        "x_opencti_id":  "e83ab97c-abf7-4115-af7a-80842ca440f5",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "北欧",
-                        "Nordeuropa",
-                        "北ヨーロッパ",
-                        "Europa Północna",
-                        "Северная Европа",
-                        "北歐"
-                    ]
+      "id": "location--47a439b0-ad3d-5a9e-8f6a-5de5a7e76d0b",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.052Z",
+      "modified": "2025-05-06T11:47:35.881Z",
+      "name": "Northern Europe",
+      "x_opencti_location_type": "Region",
+      "region": "Northern Europe",
+      "x_opencti_id": "e83ab97c-abf7-4115-af7a-80842ca440f5",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "北欧",
+        "Nordeuropa",
+        "北ヨーロッパ",
+        "Europa Północna",
+        "Северная Европа",
+        "北歐"
+      ]
     },
     {
-        "id":  "location--834c5189-3715-561b-b68a-e835372d05ff",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.062Z",
-        "modified":  "2025-05-06T11:47:36.724Z",
-        "name":  "Oceania",
-        "x_opencti_location_type":  "Region",
-        "region":  "Oceania",
-        "x_opencti_id":  "71eddf50-3c87-4ac5-9cad-b8365e6254a9",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "大洋洲",
-                        "Ozeanien",
-                        "オセアニア",
-                        "Oceania",
-                        "Океания"
-                    ]
+      "id": "location--834c5189-3715-561b-b68a-e835372d05ff",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.062Z",
+      "modified": "2025-05-06T11:47:36.724Z",
+      "name": "Oceania",
+      "x_opencti_location_type": "Region",
+      "region": "Oceania",
+      "x_opencti_id": "71eddf50-3c87-4ac5-9cad-b8365e6254a9",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "大洋洲",
+        "Ozeanien",
+        "オセアニア",
+        "Oceania",
+        "Океания"
+      ]
     },
     {
-        "id":  "location--df0eeebf-0c07-52c8-92a7-5e928e73fe75",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.068Z",
-        "modified":  "2025-05-06T11:47:37.215Z",
-        "name":  "Polynesia",
-        "x_opencti_location_type":  "Region",
-        "region":  "Polynesia",
-        "x_opencti_id":  "a1eb97b0-2901-455e-9196-7533851bf182",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "波利尼西亚",
-                        "Polynesien",
-                        "ポリネシア",
-                        "Polinezja",
-                        "Полинезия",
-                        "波利尼西亞"
-                    ]
+      "id": "location--df0eeebf-0c07-52c8-92a7-5e928e73fe75",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.068Z",
+      "modified": "2025-05-06T11:47:37.215Z",
+      "name": "Polynesia",
+      "x_opencti_location_type": "Region",
+      "region": "Polynesia",
+      "x_opencti_id": "a1eb97b0-2901-455e-9196-7533851bf182",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "波利尼西亚",
+        "Polynesien",
+        "ポリネシア",
+        "Polinezja",
+        "Полинезия",
+        "波利尼西亞"
+      ]
     },
     {
-        "id":  "location--f2bd521a-b95b-5f99-897b-872ba66060b3",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.041Z",
-        "modified":  "2025-05-06T11:47:34.798Z",
-        "name":  "South-eastern Asia",
-        "x_opencti_location_type":  "Region",
-        "region":  "South-eastern Asia",
-        "x_opencti_id":  "149cff2d-6ff7-4d2b-b8bd-4efd0c662206",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "东南亚",
-                        "Süd-Ost-Asien",
-                        "南東アジア",
-                        "Azja Południowo-Wschodnia",
-                        "Юго-Восточная Азия",
-                        "東南亞"
-                    ]
+      "id": "location--f2bd521a-b95b-5f99-897b-872ba66060b3",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.041Z",
+      "modified": "2025-05-06T11:47:34.798Z",
+      "name": "South-eastern Asia",
+      "x_opencti_location_type": "Region",
+      "region": "South-eastern Asia",
+      "x_opencti_id": "149cff2d-6ff7-4d2b-b8bd-4efd0c662206",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "东南亚",
+        "Süd-Ost-Asien",
+        "南東アジア",
+        "Azja Południowo-Wschodnia",
+        "Юго-Восточная Азия",
+        "東南亞"
+      ]
     },
     {
-        "id":  "location--80f5d85d-4b4f-5cb7-b7aa-1771c0afad2e",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.043Z",
-        "modified":  "2025-05-06T11:47:35.068Z",
-        "name":  "Southern Asia",
-        "x_opencti_location_type":  "Region",
-        "region":  "Southern Asia",
-        "x_opencti_id":  "a08fa105-a093-4947-ac2e-a5ff534da46f",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "亚洲南部",
-                        "Südliches Asien",
-                        "南アジア",
-                        "Azja Południowa",
-                        "Южная Азия",
-                        "亞洲南部"
-                    ]
+      "id": "location--80f5d85d-4b4f-5cb7-b7aa-1771c0afad2e",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.043Z",
+      "modified": "2025-05-06T11:47:35.068Z",
+      "name": "Southern Asia",
+      "x_opencti_location_type": "Region",
+      "region": "Southern Asia",
+      "x_opencti_id": "a08fa105-a093-4947-ac2e-a5ff534da46f",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "亚洲南部",
+        "Südliches Asien",
+        "南アジア",
+        "Azja Południowa",
+        "Южная Азия",
+        "亞洲南部"
+      ]
     },
     {
-        "id":  "location--702e7644-9f72-56de-a39b-993151d3eaab",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.057Z",
-        "modified":  "2025-05-06T11:47:36.212Z",
-        "name":  "Southern Europe",
-        "x_opencti_location_type":  "Region",
-        "region":  "Southern Europe",
-        "x_opencti_id":  "02c241ce-7e5e-4f3e-801f-672e553a85f4",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "南欧",
-                        "Südeuropa",
-                        "南ヨーロッパ",
-                        "Europa Południowa",
-                        "Южная Европа",
-                        "南歐"
-                    ]
+      "id": "location--702e7644-9f72-56de-a39b-993151d3eaab",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.057Z",
+      "modified": "2025-05-06T11:47:36.212Z",
+      "name": "Southern Europe",
+      "x_opencti_location_type": "Region",
+      "region": "Southern Europe",
+      "x_opencti_id": "02c241ce-7e5e-4f3e-801f-672e553a85f4",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "南欧",
+        "Südeuropa",
+        "南ヨーロッパ",
+        "Europa Południowa",
+        "Южная Европа",
+        "南歐"
+      ]
     },
     {
-        "id":  "location--69cc1e68-fe91-514a-84c6-3379e0109bc3",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.001Z",
-        "modified":  "2025-05-06T11:47:32.202Z",
-        "name":  "Sub-Saharan Africa",
-        "latitude":  -2.9814344,
-        "longitude":  23.8222636,
-        "x_opencti_location_type":  "Region",
-        "region":  "Sub-Saharan Africa",
-        "x_opencti_id":  "648496cb-7125-4777-a240-471246e96ddf",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "撒哈拉以南非洲",
-                        "Afrika südlich der Sahara",
-                        "サハラ以南アフリカ",
-                        "Afryka Subsaharyjska",
-                        "Африка южнее Сахары"
-                    ]
+      "id": "location--69cc1e68-fe91-514a-84c6-3379e0109bc3",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.001Z",
+      "modified": "2025-05-06T11:47:32.202Z",
+      "name": "Sub-Saharan Africa",
+      "latitude": -2.9814344,
+      "longitude": 23.8222636,
+      "x_opencti_location_type": "Region",
+      "region": "Sub-Saharan Africa",
+      "x_opencti_id": "648496cb-7125-4777-a240-471246e96ddf",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "撒哈拉以南非洲",
+        "Afrika südlich der Sahara",
+        "サハラ以南アフリカ",
+        "Afryka Subsaharyjska",
+        "Африка южнее Сахары"
+      ]
     },
     {
-        "id":  "location--a25f43bf-3e2d-55fe-ba09-c63a210f169d",
-        "spec_version":  "2.1",
-        "revoked":  false,
-        "confidence":  100,
-        "created":  "2023-11-19T00:56:37.060Z",
-        "modified":  "2025-05-06T11:47:36.539Z",
-        "name":  "Western Europe",
-        "latitude":  46.227638,
-        "longitude":  2.213749,
-        "x_opencti_location_type":  "Region",
-        "region":  "Western Europe",
-        "x_opencti_id":  "e36b6191-f35d-4216-8a64-a0ee4ee74d6d",
-        "x_opencti_type":  "Region",
-        "type":  "location",
-        "created_by_ref":  "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
-        "object_marking_refs":  [
-                                    "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
-                                ],
-        "aliases":  [
-                        "西欧",
-                        "Westeuropa",
-                        "西ヨーロッパ",
-                        "Europa Zachodnia",
-                        "Западная Европа",
-                        "西歐"
-                    ]
+      "id": "location--a25f43bf-3e2d-55fe-ba09-c63a210f169d",
+      "spec_version": "2.1",
+      "revoked": false,
+      "confidence": 100,
+      "created": "2023-11-19T00:56:37.060Z",
+      "modified": "2025-05-06T11:47:36.539Z",
+      "name": "Western Europe",
+      "latitude": 46.227638,
+      "longitude": 2.213749,
+      "x_opencti_location_type": "Region",
+      "region": "Western Europe",
+      "x_opencti_id": "e36b6191-f35d-4216-8a64-a0ee4ee74d6d",
+      "x_opencti_type": "Region",
+      "type": "location",
+      "created_by_ref": "identity--8cb00c79-ab20-5ed4-b37d-337241b96a29",
+      "object_marking_refs": [
+        "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+      ],
+      "x_opencti_aliases": [
+        "西欧",
+        "Westeuropa",
+        "西ヨーロッパ",
+        "Europa Zachodnia",
+        "Западная Европа",
+        "西歐"
+      ]
     }
-]
+  ]
+}
