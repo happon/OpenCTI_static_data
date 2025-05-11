@@ -1,0 +1,1 @@
+# OpenCTI_static_data
